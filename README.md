@@ -1,4 +1,4 @@
-# venue_popularity
+# Venue Popularity Predictor
 
 The jupyter notebook contains the code for a Venue Popularity Predictor that uses Yelp's dataset for venue popularities to predict the popularity for new locations.
 > The dataset is available under `./data/yelp_dataset.json.gz`.
